@@ -1,0 +1,12 @@
+![Adblock Plus 2.0]
+! Title: privacy
+! Expires: 3 days (update frequency)
+! Version: 201702081200
+! Last modified: 2017
+! Homepage: 
+! Contribute: 
+! License: https://mit-license.org/
+! Description: ∆¡±Œ“˛ÀΩœ‡πÿ
+!-------------------------------------------------------------------------------
+
+||google-analytics.com

@@ -1,0 +1,13 @@
+![Adblock Plus 2.0]
+! Title: workm936k ADB Filter
+! Expires: 3 days (update frequency)
+! Version: 201702081200
+! Last modified: 2016
+! Homepage: 
+! Contribute: 
+! License: https://mit-license.org/
+! Description: π„∏Ê¿πΩÿ
+!-------------------------------------------------------------------------------
+
+||casalemedia.com
+||quantserve.com
