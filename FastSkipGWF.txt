@@ -1,12 +1,12 @@
 ![Adblock Plus 2.0]
 ! Title: FastSkipGWF
 ! Expires: 3 days (update frequency)
-! Version: 201705151200
-! Last modified: 2017
+! Version: 202006021200
+! Last modified: 2020
 ! Homepage: 
 ! Contribute: 
 ! License: https://mit-license.org/
-! Description: 解决GWF导致的网页访问慢问题
+! Description: 瑙ｅ喅GWF瀵艰嚧鐨勭綉椤佃闂參闂
 !-------------------------------------------------------------------------------
 
 ||appspot.com
@@ -16,4 +16,5 @@
 ||google.com
 ||googleapis.com
 ||gravatar.com
+||imgur.com/
 ||youtube.com
