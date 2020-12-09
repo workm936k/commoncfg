@@ -1,7 +1,7 @@
 ![Adblock Plus 2.0]
 ! Title: FastSkipGWF
 ! Expires: 3 days (update frequency)
-! Version: 202006021200
+! Version: 202012091200
 ! Last modified: 2020
 ! Homepage: 
 ! Contribute: 
