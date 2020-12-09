@@ -14,7 +14,7 @@
 ||facebook.com
 ||facebook.net
 ||google.com
-||googleapis.com
+||ajax.googleapis.com
 ||gravatar.com
 ||imgur.com/
 ||youtube.com
