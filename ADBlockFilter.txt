@@ -1,13 +1,16 @@
 ![Adblock Plus 2.0]
 ! Title: workm936k ADB Filter
 ! Expires: 3 days (update frequency)
-! Version: 201702081200
-! Last modified: 2016
+! Version: 202501021200
+! Last modified: 2025
 ! Homepage: 
 ! Contribute: 
 ! License: https://mit-license.org/
-! Description: ¹ã¸æÀ¹½Ø
+! Description: å¹¿å‘Šæ‹¦æˆª
 !-------------------------------------------------------------------------------
 
 ||casalemedia.com
 ||quantserve.com
+blog.csdn.net##DIV.passport-container
+blog.csdn.net##DIV.passport-login-container
+blog.csdn.net##DIV.passport-login-tip-container
